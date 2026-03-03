@@ -65,7 +65,7 @@
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gstark&hide_border=true" alt="GitHub streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gjstark&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 ---
