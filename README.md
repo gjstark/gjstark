@@ -1,6 +1,6 @@
 # Hi, I'm George Stark
 
-**Software leader** with 20+ years of experience building great software and great software teams. I'm passionate about delivering exceptional products and empowering engineering teams — from strategy to execution. Lately I'm deep into AI-assisted development, using tools like Cursor and Claude Code to supercharge how teams build software. I believe AI is the biggest force multiplier in modern engineering and I'm all in on weaving it into every stage of the development lifecycle.
+**Software leader** with 20+ years of experience building great software and great software teams. I'm passionate about delivering exceptional products and empowering engineering teams from strategy to execution. Lately I'm deep into AI-assisted development, using tools like Cursor and Claude Code to supercharge how teams build software. I believe AI is the biggest force multiplier in modern engineering and I'm all in on weaving it into every stage of the development lifecycle.
 
 [![Website](https://img.shields.io/badge/herdingcoders.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.herdingcoders.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgestark)
